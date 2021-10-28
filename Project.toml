@@ -1,0 +1,9 @@
+name = "FluxHELayers"
+uuid = "db36c6b0-fee6-4470-8ea3-7c3fbd1f9d4d"
+authors = ["Sven Anderzén <svenanderzen@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
+SEAL = "bac81e26-86e4-4b48-8696-7d0406d5dbc1"

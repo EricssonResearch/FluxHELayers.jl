@@ -1,0 +1,7 @@
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
+SEAL = "bac81e26-86e4-4b48-8696-7d0406d5dbc1"
