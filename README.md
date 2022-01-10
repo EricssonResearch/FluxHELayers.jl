@@ -1,5 +1,8 @@
 # FluxHELayers.jl
 
+**FluxHELayers.jl is not actively maintained.** See fork [svenanderzen/FluxHELayers.jl](https://github.com/svenanderzen/FluxHELayers.jl) for the most recent updates.
+
+
 FluxHELayers.jl is a small library for performing neural network inference over
 homomorphically encrypted data using [Microsoft
 SEAL](https://github.com/microsoft/SEAL), the
